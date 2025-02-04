@@ -1,7 +1,4 @@
-<div align=center>
-<!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=b9cbff&text=💻ounjuu👋%20&fontSize=40&animation=twinkling"> -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=b9cbff&height=200&text=💻ounjuu👋">
-  - 👋 Hi, I’m @ounjuu
+ - 👋 Hi, I’m @ounjuu
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,5 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ounjuu👋&fontAlign=80&fontAlignY=40&color=b9cbff">
+
+💻
 </div>
