@@ -14,4 +14,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ounjuu&layout=compact"><br><br>
+
+  <img src="https://ghchart.rshah.org/926EFFFF/ounjuu" /><br><br>
 </div>
+
