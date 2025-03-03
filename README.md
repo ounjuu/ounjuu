@@ -1,6 +1,18 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ounjuu💻&fontAlign=80&fontAlignY=40&color=b9cbff" width: 100%>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ounjuu💻&fontAlign=80&fontAlignY=40&color=b9cbff" width: 100%> </div>
 
+# 🌟 Introduction
+
+Hello! I am a developer aspiring to become a frontend developer.<br/> I have been learning web development with HTML, CSS, and JavaScript, and recently, I have taken an interest in full-stack development using React and Node.js.<br/>
+
+# 💡 Interests
+
+- Web application development<br/>
+- Building shopping mall and e-commerce platforms<br/>
+- Developing climbing-related web services<br/><br/>
+
+<div align=center>
+  
   # :books: Tech Stack<br/>
   ### :raising_hand: Platform & Languages<br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
