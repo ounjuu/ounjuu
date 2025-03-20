@@ -3,7 +3,9 @@
 
 # 🌟 Introduction
 
-Hello! I am a developer aspiring to become a frontend developer.<br/> I have been learning web development with HTML, CSS, and JavaScript, and recently, I have taken an interest in full-stack development using React and Node.js.<br/>
+Hello! I am a developer aspiring to become a frontend developer. I am currently focusing on learning React and Node.js, and I am passionate about expanding my skills in full-stack development. While my main focus is on React and Node.js, I also have experience with HTML, CSS, and JavaScript, which I have used to build and style websites.
+
+With a strong foundation in frontend technologies, I am eager to learn more about backend development and integrate both sides to create seamless user experiences. I am looking forward to collaborating on projects that allow me to leverage both my frontend and backend development skills.
 
 # 💡 Interests
 
