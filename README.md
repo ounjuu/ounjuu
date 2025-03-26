@@ -1,4 +1,4 @@
-<div align=center>
+<div align=center >
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ounjuu💻&fontAlign=80&fontAlignY=40&color=b9cbff" width: 100%> </div>
 
 # 🌟 Introduction
@@ -30,10 +30,14 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
 
   ### 🛠️ Tools<br/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ounjuu&layout=compact"><br><br>
-
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br/><br/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ounjuu&theme=nord_bright" /><br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ounjuu&theme=nord_bright" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ounjuu&theme=nord_bright" /><br/><br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ounjuu&theme=nord_bright" />
+  <br/><br/>
+  
   <img src="https://ghchart.rshah.org/926EFFFF/ounjuu" /><br><br>
 </div>
 
