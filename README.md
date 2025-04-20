@@ -29,7 +29,7 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
   ### 🛠️ Tools<br/>
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=V&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br/><br/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ounjuu&theme=nord_bright" /><br/><br/>
