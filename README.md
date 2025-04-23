@@ -11,7 +11,6 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
 
 - Web application development<br/>
 - Building shopping mall and e-commerce platforms<br/>
-- Developing climbing-related web services<br/><br/>
 
 <div align=center>
   
