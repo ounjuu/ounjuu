@@ -27,13 +27,15 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white">
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+
 
   ### 🛠️ Tools<br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=V&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <br/><br/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ounjuu&theme=nord_bright" /><br/><br/>
