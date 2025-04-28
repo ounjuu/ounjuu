@@ -7,6 +7,12 @@ Hello! I am a developer aspiring to become a frontend developer. I am currently 
 
 With a strong foundation in frontend technologies, I am eager to learn more about backend development and integrate both sides to create seamless user experiences. I am looking forward to collaborating on projects that allow me to leverage both my frontend and backend development skills.
 
+안녕하세요! React와 Node.js를 중심으로 성장하고 있는 개발자입니다.
+풀스택 개발자로 성장하는 것을 목표로, 프론트엔드와 백엔드 기술을 폭넓게 학습하고 있습니다.
+
+React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript 등 다양한 기술 스택을 활용해 웹사이트를 개발하고 있습니다.
+앞으로도 다양한 프로젝트에 참여하며 경험을 확장하고, 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다.
+
 # 💡 Interests
 
 - Web application development<br/>
