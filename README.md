@@ -14,6 +14,12 @@ Hello! I am a developer aspiring to become a frontend developer. I am currently 
 
 With a strong foundation in frontend technologies, I am eager to learn more about backend development and integrate both sides to create seamless user experiences. I am looking forward to collaborating on projects that allow me to leverage both my frontend and backend development skills.
 
+#### 노션 포트폴리오
+: https://lily-taxicab-89f.notion.site/1c31edc0c62781c9b3cbc487fac1bf26?pvs=74
+
+#### 프로젝트 배포 주소
+: http://34.236.72.45/ (코코월드 - 싸이월드 프로젝트)<br/>
+: http://52.79.135.142/ (소개팅 - AI 및 GPS 기반 반려동물 친구 만들기 서비스)
 
 # 💡 Interests
 
