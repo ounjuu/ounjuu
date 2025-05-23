@@ -7,7 +7,7 @@
 안녕하세요! React와 Node.js를 중심으로 성장하고 있는 개발자입니다.
 풀스택 개발자로 성장하는 것을 목표로, 프론트엔드와 백엔드 기술을 폭넓게 학습하고 있습니다.
 
-React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript 등 다양한 기술 스택을 활용해 웹사이트를 개발하고 있습니다.
+React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript, AWS 등 다양한 기술 스택을 활용해 웹사이트를 개발하고 있습니다.
 앞으로도 다양한 프로젝트에 참여하며 경험을 확장하고, 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다.
 
 Hello! I am a developer aspiring to become a frontend developer. I am currently focusing on learning React and Node.js, and I am passionate about expanding my skills in full-stack development. While my main focus is on React and Node.js, I also have experience with Next.js, TypeScript, HTML, CSS, and JavaScript, which I have used to build and style websites.
@@ -35,6 +35,7 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
