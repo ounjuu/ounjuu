@@ -59,6 +59,5 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ounjuu&theme=nord_bright" />
   <br/><br/>
   
-  <img src="https://ghchart.rshah.org/926EFFFF/ounjuu" /><br><br>
 </div>
 
