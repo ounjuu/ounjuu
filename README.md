@@ -4,7 +4,7 @@
 # 🌟 Introduction
 
 
-안녕하세요! React와 Node.js를 중심으로 성장하고 있는 개발자입니다.
+안녕하세요! React와 Next.js를 중심으로 성장하고 있는 개발자입니다.
 풀스택 개발자로 성장하는 것을 목표로, 프론트엔드와 백엔드 기술을 폭넓게 학습하고 있습니다.
 
 React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript, AWS 등 다양한 기술 스택을 활용해 웹사이트를 개발하고 있습니다.
