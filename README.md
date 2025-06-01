@@ -8,7 +8,7 @@
 프론트엔드 개발자로 성장하는 것을 목표로 하고 있으며, 백엔드 기술까지 폭넓게 학습하고 있습니다.
 
 React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript, AWS 등 다양한 기술 스택을 활용해 웹사이트를 개발하고 있습니다.
-앞으로도 다양한 프로젝트에 참여하며 경험을 확장하고, 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다.
+앞으로도 다양한 프로젝트에 참여하며 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다.
 
 Hello! I am a developer aspiring to become a frontend developer. I am currently focusing on learning React and Node.js, and I am passionate about expanding my skills in full-stack development. While my main focus is on React and Node.js, I also have experience with Next.js, TypeScript, HTML, CSS, and JavaScript, which I have used to build and style websites.
 
