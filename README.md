@@ -24,7 +24,6 @@ With a strong foundation in frontend technologies, I am eager to learn more abou
 # 💡 Interests
 
 - Web application development<br/>
-- Building shopping mall and e-commerce platforms<br/>
 
 <div align=center>
   
