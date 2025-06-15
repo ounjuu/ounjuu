@@ -23,6 +23,7 @@ I have experience building websites using a variety of technologies including Re
 # 💡 Interests
 
 - Web application development<br/>
+- Frontend Development using React, Next.js<br/>
 
 <div align=center>
   
