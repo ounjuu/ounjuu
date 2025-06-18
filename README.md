@@ -26,6 +26,7 @@ I have experience building websites using a variety of technologies including Re
 - Frontend Development using React, Next.js<br/>
 - Fullstack Projects with Node.js & MySQL<br/>
 - OAuth-based Authentication (Google, Kakao, Naver)<br/>
+- AWS EC2 Deployment<br/>
 
 <div align=center>
   
