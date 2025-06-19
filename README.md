@@ -47,7 +47,7 @@ I have experience building websites using a variety of technologies including Re
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white">
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
 
   ### 🛠️ Tools<br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=V&logoColor=white"/>
