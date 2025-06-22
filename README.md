@@ -28,6 +28,7 @@ I have experience building websites using a variety of technologies including Re
 - OAuth-based Authentication (Google, Kakao, Naver)<br/>
 - AWS EC2 Deployment<br/>
 - UX-focused Component Design (e.g., Drag & Drop UI, Responsive Layouts)<br/>
+- Form Handling with Formik & Yup<br/>
 
 <div align=center>
   
