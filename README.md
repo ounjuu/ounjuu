@@ -27,7 +27,7 @@ I have experience building websites using a variety of technologies including Re
 - Fullstack Projects with Node.js & MySQL<br/>
 - OAuth-based Authentication (Google, Kakao, Naver)<br/>
 - AWS EC2 Deployment<br/>
-- UX-focused Component Design (e.g., Drag & Drop UI, Responsive Layouts)<br/>
+- UX-focused Component Design<br/>
 - Form Handling with Formik & Yup<br/>
 
 <div align=center>
