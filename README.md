@@ -29,6 +29,7 @@ I have experience building websites using a variety of technologies including Re
 - AWS EC2 Deployment<br/>
 - UX-focused Component Design<br/>
 - Form Handling with Formik & Yup<br/>
+- State Management using Redux & React Context<br/>
 
 <div align=center>
   
