@@ -30,6 +30,7 @@ I have experience building websites using a variety of technologies including Re
 - UX-focused Component Design<br/>
 - Form Handling with Formik & Yup<br/>
 - State Management using Redux & React Context<br/>
+- RESTful API integration with Axios and JWT-based Auth<br/>
 
 <div align=center>
   
