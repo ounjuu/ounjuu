@@ -29,7 +29,7 @@ I have experience building websites using a variety of technologies including Re
 - AWS EC2 Deployment<br/>
 - UX-focused Component Design(Responsive Layouts)<br/>
 - Form Handling with Formik & Yup<br/>
-- State Management using Redux & React Context<br/>
+- State Management using Redux, React Context & Zustand<br/>
 - RESTful API integration with Axios and JWT-based Auth<br/>
 
 <div align=center>
