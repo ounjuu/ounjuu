@@ -56,6 +56,7 @@ I have experience building websites using a variety of technologies including Re
 <img src="https://img.shields.io/badge/Canvas-E72429?style=flat-square&logo=Canvas&logoColor=white"/>
 <img src="https://img.shields.io/badge/antdesign-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=EJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
   ### 🛠️ Tools<br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=V&logoColor=white"/>
