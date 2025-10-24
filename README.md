@@ -11,7 +11,7 @@ React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript, React Native, AWS �
 
 Hello! I am a developer currently focusing on React and Next.js, with the goal of becoming a frontend developer. Recently, I have also been expanding my knowledge to include Vue and backend technologies to grow as a more well-rounded developer.
 
-I have experience building websites using a variety of technologies including React, Next.js, Node.js, TypeScript, HTML, CSS, JavaScript, React Native, AWS, and Vue. I aim to continue participating in diverse projects and strive to become a developer who delivers better user experiences through continuous learning and hands-on development.
+I have experience building websites using a variety of technologies including React, Next.js, Node.js, TypeScript, HTML, CSS, JavaScript, React Native, and AWS. I aim to continue participating in diverse projects and strive to become a developer who delivers better user experiences through continuous learning and hands-on development.
 
 #### 노션 포트폴리오
 : https://lily-taxicab-89f.notion.site/1c31edc0c62781c9b3cbc487fac1bf26?pvs=74
