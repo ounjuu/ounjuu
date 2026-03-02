@@ -3,34 +3,36 @@
 
 # 🌟 Introduction
 
-안녕하세요! React와 Next.js를 중심으로 성장하고 있는 개발자입니다.
-프론트엔드 개발자로 성장하는 것을 목표로 하고 있으며, 최근에는 Vue부터 백엔드까지 폭넓게 학습하고 있습니다.
+안녕하세요. React와 Next.js를 중심으로 성장하고 있는 개발자입니다.
+프론트엔드 개발 역량을 기반으로 백엔드 영역까지 학습 범위를 확장하며, 보다 균형 잡힌 개발자로 성장하고 있습니다. 
+또한 Claude와 Cursor 등 생성형 AI 도구를 적극 활용하여 설계 단계부터 구현, 테스트, 리팩토링에 이르기까지 전반적인 개발 생산성을 높이고 있습니다.
 
-React, Node.js, Next.js, TypeScript, HTML, CSS, JavaScript, React Native, AWS 등 다양한 기술 스택을 활용해 웹사이트를 개발하고 있습니다.
+React, Next.js, Node.js, TypeScript, JavaScript, HTML, CSS, React Native, AWS 등 다양한 기술 스택을 활용해 웹 서비스를 개발해왔으며, 
+빠른 학습과 실험을 통해 문제 해결 능력을 지속적으로 향상시키고 있습니다.
 앞으로도 다양한 프로젝트에 참여하며 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다.
 
-Hello! I am a developer currently focusing on React and Next.js, with the goal of becoming a frontend developer. Recently, I have also been expanding my knowledge to include Vue and backend technologies to grow as a more well-rounded developer.
-
-I have experience building websites using a variety of technologies including React, Next.js, Node.js, TypeScript, HTML, CSS, JavaScript, React Native, and AWS. I aim to continue participating in diverse projects and strive to become a developer who delivers better user experiences through continuous learning and hands-on development.
+Hello, I am a developer growing with a focus on React and Next.js.
+Building on my frontend expertise, I am expanding my knowledge into backend technologies to become a more well-rounded developer. 
+I also actively leverage generative AI tools such as Claude and Cursor to enhance productivity throughout the entire development process—from architecture design to implementation, testing, and refactoring.
+I have experience developing web services using a diverse technology stack including React, Next.js, Node.js, TypeScript, JavaScript, HTML, CSS, React Native, and AWS. 
+Through continuous learning and hands-on experimentation, I strive to strengthen my problem-solving skills and deliver better user experiences.
+I aim to keep growing by participating in diverse projects and contributing meaningful value to users.
 
 #### 노션 포트폴리오
 : https://lily-taxicab-89f.notion.site/1c31edc0c62781c9b3cbc487fac1bf26?pvs=74
 
-#### 프로젝트 배포 주소
-: http://34.236.72.45/ (코코월드 - 싸이월드 프로젝트)<br/>
-: http://52.79.135.142/ (소개팅 - GPS 기반 반려동물 친구 만들기 서비스)
-
 # 💡 Interests
 
-- Web application development<br/>
-- Frontend Development using React, Next.js<br/>
-- Fullstack Projects with Node.js & MySQL<br/>
-- OAuth-based Authentication (Google, Kakao, Naver)<br/>
-- AWS EC2 Deployment<br/>
-- UX-focused Component Design(Responsive Layouts)<br/>
-- Form Handling with Formik & Yup<br/>
-- State Management using Redux, React Context & Zustand<br/>
-- RESTful API integration with Axios and JWT-based Auth<br/>
+- Web Application Architecture & Scalable Frontend Development <br/>
+- Frontend Development with React & Next.js (SSR / CSR) <br/>
+- Fullstack Development with Node.js, NestJS & MySQL <br/>
+- OAuth-based Authentication (Google, Kakao, Naver) & JWT Auth Flows <br/>
+- AWS EC2 Deployment & Production Environment Setup <br/>
+- UX-Focused Component Design (Responsive & Interactive UI) <br/>
+- Advanced Form Handling (Formik, Yup) <br/>
+- State Management (Redux, React Context, Zustand, React Query) <br/>
+- RESTful API Integration & Secure Authentication <br/>
+- Generative AI–Assisted Development (Claude, Cursor for Architecture, Refactoring & Debugging) <br/>
 
 <div align=center>
   
