@@ -9,12 +9,12 @@
 
 React, Next.js, Node.js, TypeScript, JavaScript, HTML, CSS, React Native, AWS 등 다양한 기술 스택을 활용해 웹 서비스를 개발해왔으며,  <br/>
 빠른 학습과 실험을 통해 문제 해결 능력을 지속적으로 향상시키고 있습니다. <br/>
-앞으로도 다양한 프로젝트에 참여하며 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다. <br/> <br/>
+앞으로도 다양한 프로젝트에 참여하며 사용자에게 더 나은 경험을 제공하는 개발자로 성장하고자 합니다. <br/><br/>
 
 Hello, I am a developer growing with a focus on React and Next.js. <br/>
-Building on my frontend expertise, I am expanding my knowledge into backend technologies to become a more well-rounded developer.  <br/>
+Building on my frontend expertise, I am expanding my knowledge into backend technologies to become a more well-rounded developer.  <br/><br/>
 I also actively leverage generative AI tools such as Claude and Cursor to enhance productivity throughout the entire development process—from architecture design to implementation, testing, and refactoring. <br/>
-I have experience developing web services using a diverse technology stack including React, Next.js, Node.js, TypeScript, JavaScript, HTML, CSS, React Native, and AWS.  <br/>
+I have experience developing web services using a diverse technology stack including React, Next.js, Node.js, TypeScript, JavaScript, HTML, CSS, React Native, and AWS. <br/><br/>
 Through continuous learning and hands-on experimentation, I strive to strengthen my problem-solving skills and deliver better user experiences. <br/>
 I aim to keep growing by participating in diverse projects and contributing meaningful value to users. <br/> <br/>
 
@@ -59,6 +59,7 @@ I aim to keep growing by participating in diverse projects and contributing mean
 <img src="https://img.shields.io/badge/antdesign-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=EJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
   ### 🛠️ Tools<br/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=V&logoColor=white"/>
