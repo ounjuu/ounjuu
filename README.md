@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ounjuu💻&fontAlign=80&fontAlignY=40&color=b9cbff" width: 100%> </div>
 
 # 🌟 Introduction
+- 포트폴리오 사이트 : https://ounjuu.com
 
 안녕하세요. React와 Next.js를 중심으로 성장하고 있는 개발자입니다. <br/>
 프론트엔드 개발 역량을 기반으로 백엔드 영역까지 학습 범위를 확장하며, 보다 균형 잡힌 개발자로 성장하고 있습니다.  <br/>
