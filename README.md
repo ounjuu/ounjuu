@@ -18,11 +18,6 @@ I have experience developing web services using a diverse technology stack inclu
 Through continuous learning and hands-on experimentation, I strive to strengthen my problem-solving skills and deliver better user experiences. <br/>
 I aim to keep growing by participating in diverse projects and contributing meaningful value to users. <br/> <br/>
 
-#### 노션 포트폴리오
-: https://lily-taxicab-89f.notion.site/1c31edc0c62781c9b3cbc487fac1bf26?pvs=74
-
-#### 포트폴리오 사이트
-: https://ounjuu.com
 
 # 💡 Interests
 
